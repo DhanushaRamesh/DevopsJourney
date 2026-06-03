@@ -1,7 +1,7 @@
-**1. What is an IP address? ** [👉 IP Address = Computer's address on a network]
+**1. What is an IP address?** [👉 IP Address = Computer's address on a network]
 Think of an IP address as a house address. When someone wants to send you a letter, they need your house address.When your computer wants to talk to another computer, it needs that computer's IP address.
 
-**2. What is DNS? **[👉 DNS = Internet phonebook/contact list]
+**2. What is DNS?** [👉 DNS = Internet phonebook/contact list]
 Think of DNS as your mobile contacts list. You don't remember every phone number.You just remember names. Your phone looks up the number for you. DNS works the same way.
 Instead of remembering IP - you simply type "google.com" and DNS finds the IP address for you.
 
@@ -14,7 +14,7 @@ Returns IP address
         ↓
 Browser connects to Google
 
-**3. What is HTTP vs HTTPS? **[👉 HTTP = Open postcard 👉 HTTPS = Locked envelope]
+**3. What is HTTP vs HTTPS?** [👉 HTTP = Open postcard 👉 HTTPS = Locked envelope]
 HTTP --> Imagine sending a postcard. Anyone who handles the postcard can read it. That's HTTP [Data is visible.]
 Flow : You → Internet → Website
 
@@ -22,7 +22,7 @@ HTTPS --> Now imagine sending a sealed envelope.Only the receiver can open it. T
 HTTPS protects your data by encrypting it while it travels across the internet.
 Flow : You → Encrypted Data → Website
 
-**4. What is a Port? ** [👉 Port = Specific door/service inside a computer]
+**4. What is a Port?** [👉 Port = Specific door/service inside a computer]
 Think of a large apartment building. But inside there are many apartments:[101,102,103,...]. The building address is like an IP address.The apartment number is like a port.
 The protocol (HTTPS/HTTP/SSH/FTP/etc) tells your computer which door (port) to use.
 
