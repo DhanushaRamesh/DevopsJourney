@@ -31,4 +31,7 @@ The protocol (HTTPS/HTTP/SSH/FTP/etc) tells your computer which door (port) to u
 <img width="235" height="269" alt="Screenshot 2026-06-03 at 11 05 57 PM" src="https://github.com/user-attachments/assets/de9945a8-2753-4e73-a0ea-1665316c365f" /> <img width="258" height="409" alt="Screenshot 2026-06-03 at 11 06 27 PM" src="https://github.com/user-attachments/assets/71f2d3da-acc0-47cb-a5d6-6acd7bbda9c0" />
 
 
-
+#Explore the commands in command prompt
+1) Checks connectivity and DNS resolution : ping google.com 
+2) Finds the IP address behind a domain name : nslookup google.com
+3) Makes a request to a website from the terminal : curl google.com
